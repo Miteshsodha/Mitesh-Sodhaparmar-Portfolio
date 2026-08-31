@@ -107,13 +107,10 @@ export const serviceData = [
 ]
 
 export const infoList = [
-    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'Python, Java, React.js, Next.js, Node.js' },
-    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: [
-    'B.E. in Information Technology - GEC Gandhinagar - CGPA: 8.67 | ',
-    'Diploma in Information Technology - RCTI Sola - CGPA: 8.70 | ',
-    '10th - Sagar Vidyalaya - Percentile: 94.76%'
-  ] },
-    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: ['Tometo - Food Delivery Website','DeepSeek Clone','Spotify Clone'] }
+    { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'Python ● Java ● React.js ● Next.js ● Node.js' },
+    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'BE in IT - GEC Gandhinagar - CGPA: 8.67 ● Diploma in Information Technology - RCTI Sola - CGPA: 8.70 ● 10th - Sagar Vidyalaya - Percentile: 94.76%'
+   },
+    { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Tometo - Food Delivery Website ● DeepSeek Clone ● Spotify Clone'}
 ];
 
 export const toolsData = [
