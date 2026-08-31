@@ -37,10 +37,11 @@ const About = ({ isDarkMode, setIsDarkMode }) => {
           whileInView={{ opacity: 1 }}
           transition={{ duration: 0.6, delay: 0.8 }}
           className='flex-1'>
-          <p className='mb-10 max-w-2xl font-Ovo'>I am an unexperineced frontend developer with bst learning by persuing Beachlors in
-            information Technology at GEC Gandhinagar, sector 28, Gujarat.
-            During Study ive lerned various new concepts like coding,networking,AIML,DBMS,SQL,DATABASE and all.
-            I have knowledge of Python, Java, HTML, CSS, JS.
+          <p className='mb-10 max-w-2xl font-Ovo'>I’m Mitesh Sodhaparmar, a Full Stack Web Developer from Ahmedabad, India, currently pursuing a B.E. in Information Technology at GEC Gandhinagar.
+I enjoy building modern, responsive, and user-friendly web applications and turning ideas into functional digital experiences. I work across both frontend and backend development, and I’m continuously improving my skills by working on real-world projects.
+I’ve built projects including a Spotify Clone, a DeepSeek AI Clone, and a full-stack food delivery website, gaining hands-on experience with technologies like React, Next.js, Node.js, Express.js, MongoDB, and JavaScript.
+Alongside development, I’m strengthening my problem-solving and programming skills through Data Structures & Algorithms and continuously exploring new technologies.
+My goal is to grow as a developer, build meaningful products, and keep learning something new with every project.
           </p>
 
           <motion.ul
